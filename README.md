@@ -36,8 +36,8 @@ Of course, to show how to use the single principle and js modular, and a bit of 
 
 ![](https://miro.medium.com/max/1400/1*y5YLuOKO5XM7MOzve6XsDQ.png)
 
-| name | email |
-| ------- | --- |
-| Dılo sürücü | berxudar@gmail.com |
+| name | email | linkedin |
+| ------- | --- | --- |
+| Dılo sürücü | berxudar@gmail.com | [linkedin](https://www.linkedin.com/in/dilosurucu/) |
 
 

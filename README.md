@@ -1,5 +1,6 @@
 ### Jsmodule  
 
+Example module using in javacript
 ```javascript
 
  import {coding} from '/src/coding.js';

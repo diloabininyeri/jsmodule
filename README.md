@@ -2,6 +2,7 @@
 
 ##### _more flexible code_
 
+~~Don't make your code too complicated, keep it simple~~
 
 js module using in browser 
 Example of writing a browser-compatible modular system with javascript

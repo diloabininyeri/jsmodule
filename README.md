@@ -2,7 +2,6 @@
 
 ##### _more flexible code_
 
-~~Don't make your code too complicated, keep it simple~~
 
 js module using in browser 
 Example of writing a browser-compatible modular system with javascript
@@ -28,3 +27,6 @@ Of course, to show how to use the single principle and js modular, and a bit of 
 
 ![](https://miro.medium.com/max/1400/1*y5YLuOKO5XM7MOzve6XsDQ.png)
 
+
+> 
+~~Don't make your code too complicated, keep it simple~~

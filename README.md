@@ -13,7 +13,7 @@ Example of writing a browser-compatible modular system with javascript
 Of course, to show how to use the single principle and js modular, and a bit of a concept suitable for functional programming, and moreover, it provides the opportunity to use npm packages in the Browser. 
 
 
-**Think you're writing nodejs for classic web applications. Sounds appealing, right?**
+>**Think you're writing nodejs for classic web applications. Sounds appealing, right?**
 
 ---
 

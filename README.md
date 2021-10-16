@@ -1,12 +1,20 @@
 ### Jsmodule  
 
+```javascript```
+
+ import {coding} from '/src/coding.js';
+ 
+ console.log(`%c${coding()}`,'color:green');
+ 
+ ```
+
 ##### _more flexible code_
 
 
 js module using in browser 
 Example of writing a browser-compatible modular system with javascript
 
----
+
 
 ### _What is the purpose here?_
 
@@ -15,7 +23,7 @@ Of course, to show how to use the single principle and js modular, and a bit of 
 
 >**Think you're writing nodejs for classic web applications. Sounds appealing, right?**
 
----
+
 
 ## _Features_
 

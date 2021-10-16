@@ -38,8 +38,6 @@ Of course, to show how to use the single principle and js modular, and a bit of 
 
 good coding   :raising_hand:
 
-| name | email | linkedin |
-| ------- | --- | --- |
-| Dılo sürücü | berxudar@gmail.com | [linkedin](https://www.linkedin.com/in/dilosurucu/) |
+
 
 

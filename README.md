@@ -1,6 +1,6 @@
 ### Jsmodule  
 
-##### more flexible code
+##### _more flexible code_
 
 
 js module using in browser 

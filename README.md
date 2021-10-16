@@ -10,7 +10,7 @@ Example of writing a browser-compatible modular system with javascript
 
 ### _What is the purpose here?_
 
-Of course, to show how to use the single principle and js modular, and a bit of a concept suitable for functional programming, and moreover, it provides the opportunity to use npm packages in the Browser. 
+Of course, to show how to use the single principle and js modular, and a bit of a concept suitable for functional programming, and moreover, it provides the opportunity to use npm packages in the Browser. Keep simple your code...
 
 
 >**Think you're writing nodejs for classic web applications. Sounds appealing, right?**
@@ -28,5 +28,3 @@ Of course, to show how to use the single principle and js modular, and a bit of 
 ![](https://miro.medium.com/max/1400/1*y5YLuOKO5XM7MOzve6XsDQ.png)
 
 
-> 
-~~Don't make your code too complicated, keep it simple~~

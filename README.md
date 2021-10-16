@@ -23,7 +23,7 @@ Of course, to show how to use the single principle and js modular, and a bit of 
 - Shows how to use module on browser js app without require.js
 - suitable for functional programming
 - And more readble code
-
+- clean code
 
 ![](https://miro.medium.com/max/1400/1*y5YLuOKO5XM7MOzve6XsDQ.png)
 

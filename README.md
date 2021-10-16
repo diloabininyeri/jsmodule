@@ -1,6 +1,6 @@
 ### Jsmodule  
 
-```javascript```
+```javascript
 
  import {coding} from '/src/coding.js';
  
